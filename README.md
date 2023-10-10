@@ -1,33 +1,39 @@
-# My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+# Razor King Barber website 
+A straightforward barber website with a strong emphasis on responsiveness,
+speed, and user-friendly navigation. The site will feature a fast and easy-to-use contact
+form, ensuring a great experience for visitors looking to get in touch.
 
 **Link to project:** [https://cute-piroshki-88d7f7.netlify.app/]
 
-![alt tag](http://placecorgi.com/1200/650)
+![razor_king](https://github.com/kev-er/razor_king_barber/assets/81853888/39518d4c-20ec-4c26-b1c3-0327ed39dcd4)
+
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS, JavaScript
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+The barber website is built with HTML for structure, CSS for style, and JavaScript for enhanced interactivity. Prioritizing speed and responsiveness, it boasts a user-friendly design and a swift, efficient contact form for seamless visitor engagement.
 
 ## Optimizations
-*(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+I optimized the sites loading time as it took a while to load. I achived this my compressing each image which resulted in most picture taking 69% less space. By having the images filling less the websites loading time was hugly improved.
+
 
 ## Lessons Learned:
+- I used neovim while building this to give myself a challenge which was a joy as it felt faster.
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+- I used the developer tool in brower which is a must in my opinion as it enable to see how the website preforms as well as looking that your stylings and make quick changes in the DOM to experiment before adding into in css. 
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+- I deepened my proficiency in HTML for structured content, CSS for aesthetic presentation, and JavaScript for dynamic interactivity. It was fun and the time this project took was very short compare to some of my projects four months ago 
 
-**Palettable:** https://github.com/alecortega/palettable
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+## Future features 
+- Easy booking 
+- Light & Dark mode 
+- Live Calendar that shows current free slots 
+ 
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
+
 
 
 
