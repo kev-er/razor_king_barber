@@ -14,18 +14,24 @@ form, ensuring a great experience for visitors looking to get in touch.
 
 The barber website is built with HTML for structure, CSS for style, and JavaScript for enhanced interactivity. Prioritizing speed and responsiveness, it boasts a user-friendly design and a swift, efficient contact form for seamless visitor engagement.
 
+&nbsp;
+
 ## Optimizations
 
 I optimized the sites loading time as it took a while to load. I achived this my compressing each image which resulted in most picture taking 69% less space. By having the images filling less the websites loading time was hugly improved.
 
+&nbsp;
 
 ## Lessons Learned:
 - I used neovim while building this to give myself a challenge which was a joy as it felt faster.
 
 - I used the developer tool in brower which is a must in my opinion as it enable to see how the website preforms as well as looking that your stylings and make quick changes in the DOM to experiment before adding into in css. 
 
+&nbsp;
+
 - I deepened my proficiency in HTML for structured content, CSS for aesthetic presentation, and JavaScript for dynamic interactivity. It was fun and the time this project took was very short compare to some of my projects four months ago 
 
+&nbsp;
 
 ## Future features 
 - Easy booking 
